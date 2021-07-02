@@ -4,20 +4,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
 ![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN.JPG)
  
-Please check the Colab demo.
-Long paper is provided in matrials
-Fig1 from paper is edited.
+⚡ Please check the Colab demo.
+
+🤔 Long paper is provided in matrials
+
+🔭 Fig1 from paper is edited. 
 
 [[Paper (BMVC)](  )]
 [[Paper (Long version)](  )]
