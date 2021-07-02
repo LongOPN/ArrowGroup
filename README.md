@@ -2,7 +2,7 @@
 # Self-Supervised Visual Representation Learning by Sorting Long Sequences
 
  
-![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN.JPG)
+![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN1.JPG)
  
 ⚡ Please check the Colab demo.
 
