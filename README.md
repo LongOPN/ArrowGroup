@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 
 
-[[Paper (BMVC)]( Uploaded-fig1 edited)]
+[[Paper (BMVC)](  )]
 [[Paper (Long version)](  )]
 [[Project Page]( )]
 [[Demo](https://github.com/LongOPN/LongOPN/blob/main/AnonyModel.m4v)]
