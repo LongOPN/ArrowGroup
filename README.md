@@ -4,7 +4,7 @@
  
 ![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN1.JPG)
  
-⚡ Please check the Colab demo.
+⚡ No, it is not abug!! Please check the Colab Demo.
 
 🤔 Long paper is provided in matrials
 
