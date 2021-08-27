@@ -1,7 +1,4 @@
- 
-# Self-Supervised Visual Representation Learning by Sorting Long Sequences
 
- 
 ![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN1.JPG)
  
 ⚡ No, it is not a bug!! Please check the Colab Demo. 
