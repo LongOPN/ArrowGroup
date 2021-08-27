@@ -4,13 +4,13 @@
  
 ![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN1.JPG)
  
-⚡ No, it is not a bug!! Please check the Colab Demo.
+⚡ No, it is not a bug!! Please check the Colab Demo. 
 
 🤔 Long paper is provided in matrials
 
 🔭 Fig1 from paper is edited. 
 
-[[Paper (BMVC)](  )]
+[[Paper](  )]
 [[Paper (Long version)](  )]
 [[Project Page]( )]
 [[Demo](https://github.com/LongOPN/LongOPN/blob/main/AnonyModel.m4v)]
