@@ -5,7 +5,6 @@
 
 🤔 Long paper is provided in matrials
 
-🔭 Fig1 from paper is edited. 
 
 [[Paper](  )]
 [[Paper (Long version)](  )]
