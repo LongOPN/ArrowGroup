@@ -1,5 +1,5 @@
 
-![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN1.JPG)
+![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN.JPG)
  
 ⚡ No, it is not a bug!! Please check the Colab Demo. 
 
