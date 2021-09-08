@@ -1,5 +1,4 @@
   # ArrowGroup: Arrow Of Time Grouping 
-![image](https://github.com/LongOPN/LongOPN/blob/main/net8.jpg)
 ![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN2.jpg)
 
  
