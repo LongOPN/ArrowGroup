@@ -1,5 +1,7 @@
 
 ![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN.jpg)
+![image](https://github.com/LongOPN/LongOPN/blob/main/net8.jpg)
+
  
 ⚡ No, it is not a bug!! Please check the Colab Demo. 
 
