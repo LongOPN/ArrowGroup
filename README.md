@@ -13,7 +13,8 @@
 
 # UCF Data preparation:
 Link to Google Drive to mount on colab:
-https://drive.google.com/drive/folders/13zR2YhxZMGGTA_3kq9k3cEDJGf2xoCMP?usp=sharing
+![Link to UCF101](https://drive.google.com/drive/folders/13zR2YhxZMGGTA_3kq9k3cEDJGf2xoCMP?usp=sharing)
+ 
 
 Note: to train on tuple longer than 4 frame you need to remove apply provided .txt in data folder
 
