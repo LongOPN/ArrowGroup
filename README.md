@@ -1,14 +1,16 @@
-  # ArrowGroup: Arrow Of Time Grouping 
-![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN2.jpg)
-![image](https://github.com/LongOPN/LongOPN/blob/main/net89.jpg)
-
- 
 [[Paper](  )]
 [[Paper (Long version)](  )]
 [[Project Page]( )]
 [[Demo](https://github.com/LongOPN/LongOPN/blob/main/AnonyModel.m4v)]
 [[Colab](https://colab.research.google.com/drive/1HHDD_xp1NpododLkbIfXxWsT3AOYgb4n?usp=sharing)]
+You can run the code and test any frames sequnces using provided colab demo
 
+# ArrowGroup: Arrow Of Time Grouping 
+![image](https://github.com/LongOPN/LongOPN/blob/main/LOPN2.jpg)
+![image](https://github.com/LongOPN/LongOPN/blob/main/net89.jpg)
+
+ 
+ 
 
 
 # UCF Data preparation:
